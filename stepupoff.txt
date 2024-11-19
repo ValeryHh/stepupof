@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Step Up: The Art of Dance</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<h1>Step Up</h1>
+<p style="font-size:160%;">
+Taniec to wyjątkowa forma ekspresji, która łączy ludzi i kultury. To nie tylko ruch, ale także emocje i historia. Każdy taniec opowiada swoją opowieść – od eleganckiego walca po energetyczne hip-hopowe rytmy.</p>
+
+<p>Taniec ma długą historię i jest obecny w niemal każdej kulturze na świecie. Wiele stylów tańca ma swoje korzenie w tradycjach ludowych, a z czasem ewoluowały, tworząc nowoczesne formy. Dowiedz się więcej na <a href="https://www.dancehistory.org" target="_blank">Dance History</a>.</p>
+<img src="https://clapps.com.ar/wp-content/uploads/2017/08/Hip-Hop-11.jpg" alt="Dancers" width="300" height="172">
+<p>Różnorodność stylów:
+     Taniec dzieli się na wiele stylów, takich jak balet, jazz, hip-hop, salsa, tango czy tańce ludowe. Każdy z nich ma swoje unikalne cechy i techniki.</p>
+
+<p>Korzyści zdrowotne: Regularne tańczenie poprawia kondycję, elastyczność i siłę mięśni. To także doskonały sposób na redukcję stresu i poprawę samopoczucia. <a href="https://www.healthline.com/health/dance-benefits" target="_blank">Healthline</a>.</p>
+
+<p>Społeczny aspekt: Taniec często łączy ludzi. Może być doskonałą formą interakcji, zarówno w ramach grup tanecznych, jak i podczas imprez czy festiwali. <a href="https://www.danceparty.com" target="_blank">Dance Party</a>.</p>
+<img src="cd_2.0_todd_macdonald_11.jpg" alt="Dancers in performance">
+<p>Sztuka i emocje: Taniec jest często wykorzystywany jako forma sztuki, w teatrze czy filmie, gdzie opowiada historie i przekazuje emocje w sposób, który słowa nie zawsze potrafią. <a href="https://www.dancearts.com" target="_blank">Dance Arts</a>.</p>
+
+<p>Taniec jako terapia: Dance/movement therapy (terapia tańcem) wykorzystuje ruch jako formę leczenia emocjonalnego i psychicznego, pomagając w radzeniu sobie z trudnościami i traumami.<a href="https://www.adta.org" target="_blank">American Dance Therapy Association</a>.</p>
+
+<p>Taniec to nie tylko hobby, ale także pasja, która może wzbogacić nasze życie na wielu poziomach. To sztuka, sport i forma wyrazu, która łączy pokolenia.</p>
+<p><a href="https://www.youtube.com/watch?v=8ZkNk3T_a14">Nowość таńcu</a></p>
+<p>Oto przykładowe wideo z występu tanecznego:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8ZkNk3T_a14" frameborder="0" allowfullscreen></iframe>
+
+<p style="margin-top: 20px;">Posłuchaj piosenki: <strong>Hip-Hop Beat</strong></p>
+<audio controls>
+    <source src="https://www.bensound.com/bensound-music/bensound-happyrock.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+
+<table>
+  <tr>
+    <th>Lp.</th>
+    <th>Tytuł filmu</th>
+    <th>Opis</th>
+  </tr>
+  <tr>
+    <td>1.</td>
+    <td>Step Up</td>
+    <td>Seria filmów tanecznych, która łączy miłość i taniec.</td>
+  </tr>
+  <tr>
+    <td>2.</td>
+    <td>Feel the Beat</td>
+    <td>Opowieść o powrocie do tańca i odnajdywaniu siebie.</td>
+  </tr>
+  <tr>
+    <td>3.</td>
+    <td>Street Dance</td>
+    <td>Film o rywalizacji tanecznej w różnych stylach ulicznych.</td>
+  </tr>
+</table>
+
+<div class="footer">
+    <p>Dziękujemy za odwiedzenie tej strony!</p>
+    <p>Jeśli masz pytania lub jesteś zainteresowany współpracą przy tworzeniu klubu tanecznego, napisz do mnie na <a href="mailto:valery.hreben@gmail.com">valery.hreben@gmail.com</a>.</p>
+</div>
+
+</body>
+</html>
+
